@@ -8,7 +8,7 @@
 
 An overview guide to **Microsoft 365** (formerly Office 365 / Microsoft Office) — the industry-standard productivity suite covering documents, spreadsheets, presentations, email, and cloud collaboration.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.microsoft.com/microsoft-365) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://www.microsoft.com/microsoft-365/try)
+[![Buy](https://img.shields.io/badge/🛒FREE/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 ---
 
@@ -41,30 +41,3 @@ Microsoft 365 is Microsoft's **productivity and collaboration suite**, bundling 
 | Office Home & Student (Perpetual)   | One-time purchase of core apps, no subscription required   |
 | Education Pricing                    | Discounted or free plans for students and educators           |
 
-👉 Exact current prices and regional availability: [microsoft.com/microsoft-365/buy](https://www.microsoft.com/microsoft-365)
-
-## 🚀 How to Get Started
-
-1. Go to the official page → [microsoft.com/microsoft-365](https://www.microsoft.com/microsoft-365)
-2. Choose a Personal, Family, Business, or one-time-purchase plan.
-3. Create/log in to your Microsoft account.
-4. Subscribe or purchase, then install via the Microsoft 365 web portal.
-
-## 🆓 Free Trial
-
-Microsoft offers a **free trial** for Microsoft 365 subscription plans.
-
-[![Trial](https://img.shields.io/badge/Start_Free_Trial-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365/try)
-
-## 📚 Learning Resources
-
-- [Official Microsoft 365 Training](https://support.microsoft.com/training)
-- [Microsoft 365 Support & Documentation](https://support.microsoft.com/microsoft-365)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Microsoft software or license keys. It only links to official Microsoft pages for informational and educational purposes.
-
----
-
-Made with ❤️ for productivity and everyday work
